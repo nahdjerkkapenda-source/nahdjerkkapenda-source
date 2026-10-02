@@ -1,4 +1,6 @@
-## Hi there 👋
+<p align="center">
+  <img src="wicked.png" alt="Header Banner" width="100%">
+</p>
 
 <!--
 **nahdjerkkapenda-source/nahdjerkkapenda-source** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
