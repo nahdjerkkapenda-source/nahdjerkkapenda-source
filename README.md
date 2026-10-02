@@ -1,3 +1,5 @@
+<!--
+-->
 <p align="center">
   <img src="./wicked.jpg" alt="Header Banner" width="100%">
 </p>
